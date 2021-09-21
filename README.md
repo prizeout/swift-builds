@@ -1,3 +1,1 @@
-# swift-builds
-
-The Prizeout, Swift SDK is currently in private alpha testing please reach out directly to your partner support team for more information or contact techsupport@prizeout.com for more info. 
+The Prizeout, Swift SDK is currently in private testing. [Please contact partner sales for access.](https://prizeout.com/partners/) For more information and/or support regarding the technical implementation, contact your  partner support team or reach out to techsupport@prizeout.com directly for more info.
